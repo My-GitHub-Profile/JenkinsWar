@@ -19,6 +19,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>JenkinsWar</finalName>
+    <finalName>jenkinswar</finalName>
   </build>
 </project>
